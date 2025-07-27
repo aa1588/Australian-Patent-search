@@ -1,7 +1,7 @@
 ## Australian Patent search
 ---
 
-### Python + Seleniium Web Scrape Automation
+### Python + Selenium Web Scrape Automation
 
 #### How to run ?
 
